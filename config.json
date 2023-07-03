@@ -62,7 +62,6 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "additional_sd_model_checkpoint": "/content/stable-diffusion-webui/models/Mod",
     "sd_model_checkpoint": "",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
